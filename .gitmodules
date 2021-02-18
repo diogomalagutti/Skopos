@@ -16,3 +16,12 @@
 [submodule "pluvia"]
 	path = pluvia
 	url = https://github.com/mazucanti/pluvia.git
+[submodule "rdh"]
+	path = rdh
+	url = https://github.com/mazucanti/rdh.git
+[submodule "prec"]
+	path = prec
+	url = https://github.com/mazucanti/prec.git
+[submodule "gera_prev"]
+	path = gera_prev
+	url = https://github.com/mazucanti/gera_prev.git
