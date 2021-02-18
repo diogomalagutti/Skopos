@@ -25,3 +25,12 @@
 [submodule "gera_prev"]
 	path = gera_prev
 	url = https://github.com/mazucanti/gera_prev.git
+[submodule "sincrawl"]
+	path = sincrawl
+	url = https://github.com/mazucanti/sincrawl.git
+[submodule "base_risco"]
+	path = base_risco
+	url = https://github.com/mazucanti/base_risco.git
+[submodule "trata_dadger"]
+	path = trata_dadger
+	url = https://github.com/mazucanti/trata_dadger.git
