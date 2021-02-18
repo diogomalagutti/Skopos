@@ -13,3 +13,6 @@
 [submodule "comparativo_prev_diaria"]
 	path = comparativo_prev_diaria
 	url = https://github.com/mazucanti/comparativo_prev_diaria.git
+[submodule "pluvia"]
+	path = pluvia
+	url = https://github.com/mazucanti/pluvia.git
