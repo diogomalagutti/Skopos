@@ -1,0 +1,15 @@
+[submodule "gera_ENA"]
+	path = gera_ENA
+	url = https://github.com/mazucanti/gera_ENA.git
+[submodule "gpluv"]
+	path = gpluv
+	url = https://github.com/mazucanti/gpluv.git
+[submodule "percentis"]
+	path = percentis
+	url = https://github.com/mazucanti/percentis.git
+[submodule "prospec"]
+	path = prospec
+	url = https://github.com/mazucanti/prospec.git
+[submodule "comparativo_prev_diaria"]
+	path = comparativo_prev_diaria
+	url = https://github.com/mazucanti/comparativo_prev_diaria.git
